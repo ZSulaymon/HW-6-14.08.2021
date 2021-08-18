@@ -35,7 +35,8 @@ namespace DZ3
                 {
                     count[n] = 1;
                 }
-                Console.WriteLine(count[n]);
+                Console.WriteLine(count[n]);   
+
 
             }
         }
